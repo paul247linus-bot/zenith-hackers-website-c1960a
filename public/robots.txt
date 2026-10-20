@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zenith-hackers-website-c1960a.netlify.app/sitemap.xml
